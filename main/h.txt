@@ -1,1 +1,0 @@
-[Fatal Error] ProjectLes2.dpr(6): Unit Forms was compiled with a different version of Math.Max
